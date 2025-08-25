@@ -7,9 +7,9 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
-    <h1> The Title Of My Website </h1>
+    <h1> Bella Grace </h1>
 
-    <p> A paragraph explaining more information about my website </p>
+    <p> This website will showcase all my research for my previous project, and its results. </p>
 
     <script src="script.js"></script>
   </body>
